@@ -1,1 +1,1 @@
-# sample-pipeline
+Sample Jenkins golang pipeline
