@@ -1,1 +1,1 @@
-Sample Jenkins golang pipeline
+Sample Jenkins golang pipeline.
